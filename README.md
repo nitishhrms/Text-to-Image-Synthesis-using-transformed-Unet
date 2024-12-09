@@ -1,4 +1,4 @@
-# Stable Diffusion from Scratch 👾
+# Stable Diffusion from Scratch 🎨
 
 ## Overview🌟
 
